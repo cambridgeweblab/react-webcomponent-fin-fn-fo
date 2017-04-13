@@ -1,0 +1,3 @@
+[submodule "common-ui"]
+	path = common-ui
+	url = git@github.com:cambridgeweblab/common-ui.git
